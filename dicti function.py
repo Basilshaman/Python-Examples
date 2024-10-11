@@ -1,0 +1,22 @@
+address={'name':'basi','age':20,'place':'kottakkal'}
+address
+type(address)
+address['name']
+address['age']
+address['place']
+dir(address)
+address.keys()
+address.values()
+address.items()
+address['number']=9656573086
+address
+address['number']=9061848563
+address
+address.update({'name':'zaman','place':'chappengadi','pin':676503})
+address
+address.pop('pin')
+address
+address.popitem()
+address
+del address
+address
